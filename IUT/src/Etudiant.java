@@ -1,9 +1,4 @@
 
-/**
- * 
- * @author nazza
- *
- */
 public class Etudiant {
 	/**
 	 * Le nom de l'étudiant

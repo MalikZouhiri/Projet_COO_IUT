@@ -1,10 +1,5 @@
 import java.util.HashSet;
 
-/**
- * 
- * @author nazza
- *
- */
 public class Institut {
 	
 	/**
