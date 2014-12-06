@@ -3,7 +3,7 @@ import junit.framework.TestCase;
 
 public class TestUnitaire extends TestCase{
 	
-	public void testAjoutInstitut()
+	public void testAjoutDepartement()
 	{
 		
 		Institut iut_velizy = new Institut("IUT de Vélizy-Villacoublay","10-12 Avenue de l'Europe",139254833);
