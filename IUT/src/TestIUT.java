@@ -1,8 +1,4 @@
-import junit.framework.TestCase;
-
-
-
-public class TestIUT extends TestCase{
+public class TestIUT{
 
 
 	public static void main(String[] args) {
